@@ -1,5 +1,3 @@
----
-
 # 🐍 leserpent v0.01 Design Spec
 
 ### eBPF Control Plane & Visual Orchestration Service
@@ -160,6 +158,4 @@ runtime：
 * 不做 attach
 * 不做 verifier
 * 不做 eBPF 编译
-
----
 
